@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olamide Keho (Stella)</h1>
-<h3 align="center">📊 Financial & Business Intelligence Analyst | 📈 Aspiring Data Scientist</h3>
+<h3 align="center">📊 Financial & Business Intelligence Analyst | 📈 Data Scientist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stellabigeal&label=Profile%20Views&color=0e75b6&style=flat" />
